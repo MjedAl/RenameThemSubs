@@ -1,6 +1,6 @@
 body {
-  background: #fafafa;
-  color: #333333;
+  color: #fafafa;
+  background: #333333;
   margin-top: 5rem;
 }
 
@@ -11,18 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 .bg-steel {
   /* background-color: #5f788a; */
   background-color: #252a37;
-}
-
-.site-header .navbar-nav .nav-link {
-  color: #cbd5db;
-}
-
-.site-header .navbar-nav .nav-link:hover {
-  color: #ffffff;
-}
-
-.site-header .navbar-nav .nav-link.active {
-  font-weight: 500;
 }
 
 .content-section {
@@ -70,4 +58,8 @@ footer {
 
 #footer-container i:hover {
   opacity: 0.6 !important; 
+}
+
+p, legend, li {
+  color: #252a37
 }
